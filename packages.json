@@ -1,0 +1,29 @@
+[
+    {
+        "Name": "Microsoft.Windows.Photos",
+        "InstallTitle": "Photos",
+        "DisplayName": "Microsoft Photos",
+        "Publisher": "Microsoft Corporation",
+        "PackageID": "9WZDNCRFJBH4",
+        "ProcessName": "PhotosApp",
+        "MinimumVersion": "2021.21041.10002.0"
+    },
+    {
+        "Name": "Microsoft.MicrosoftStickyNotes",
+        "InstallTitle": "Sticky Notes",
+        "DisplayName": "Microsoft Sticky Notes",
+        "Publisher": "Microsoft Corporation",
+        "PackageID": "9NBLGGH4QGHW",
+        "ProcessName": "Microsoft.Notes",
+        "MinimumVersion": "3.8.8.0"
+    },
+    {
+        "Name": "Microsoft.WindowsNotepad",
+        "InstallTitle": "Notepad",
+        "DisplayName": "Windows Notepad",
+        "Publisher": "Microsoft Corporation",
+        "PackageID": "9MSMLRH6LZF3",
+        "ProcessName": "Notepad",
+        "MinimumVersion": "11.2302.26.0"
+    }
+]

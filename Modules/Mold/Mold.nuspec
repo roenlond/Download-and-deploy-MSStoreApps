@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Mold</id>
+    <version>0.0.5</version>
+    <authors>Manjunath Beli</authors>
+    <owners>Unknown</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/belibug/Mold</projectUrl>
+    <description>Mold is a fast and powerful templating and cloning engine for PowerShell (and beyond!)</description>
+    <copyright>(c) Manjunath Beli. All rights reserved.</copyright>
+    <tags>PSModule plaster template templating templater</tags>
+  </metadata>
+</package>

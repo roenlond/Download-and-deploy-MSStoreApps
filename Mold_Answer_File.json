@@ -1,0 +1,44 @@
+[
+  {
+    "Key": "Vendor",
+    "Caption": "Vendor",
+    "Description": "Ask your question",
+    "Options": "Any string value",
+    "Answer": "YOUR_ANSWER"
+  },
+  {
+    "Key": "AppName",
+    "Caption": "AppName",
+    "Description": "Ask your question",
+    "Options": "Any string value",
+    "Answer": "YOUR_ANSWER"
+  },
+  {
+    "Key": "Version",
+    "Caption": "Version",
+    "Description": "Ask your question",
+    "Options": "Any string value",
+    "Answer": "YOUR_ANSWER"
+  },
+  {
+    "Key": "Date",
+    "Caption": "Date",
+    "Description": "Ask your question",
+    "Options": "Any string value",
+    "Answer": "YOUR_ANSWER"
+  },
+  {
+    "Key": "AppProcessName",
+    "Caption": "AppProcessName",
+    "Description": "Ask your question",
+    "Options": "Any string value",
+    "Answer": "YOUR_ANSWER"
+  },
+  {
+    "Key": "InstallTitle",
+    "Caption": "InstallTitle",
+    "Description": "Ask your question",
+    "Options": "Any string value",
+    "Answer": "YOUR_ANSWER"
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "name": "testshortname",
+    "version": "0.0.1",
+    "title": "Testtitel",
+    "description": "MOLD Template",
+    "guid": "30a38593-a96a-4be2-8b62-06d6733910ce",
+    "FileTypes": "ps1, txt, md, json, xml, psm1, psd1",
+    "LiteralFile": "config"
+  },
+  "parameters": {
+    "Vendor": {
+      "Caption": "Vendor",
+      "Message": "Ask your question",
+      "Prompt": "Response",
+      "Type": "TEXT",
+      "Default": ""
+    },
+    "AppName": {
+      "Caption": "AppName",
+      "Message": "Ask your question",
+      "Prompt": "Response",
+      "Type": "TEXT",
+      "Default": ""
+    },
+    "Version": {
+      "Caption": "Version",
+      "Message": "Ask your question",
+      "Prompt": "Response",
+      "Type": "TEXT",
+      "Default": ""
+    },
+    "Date": {
+      "Caption": "Date",
+      "Message": "Ask your question",
+      "Prompt": "Response",
+      "Type": "TEXT",
+      "Default": ""
+    },
+    "AppProcessName": {
+      "Caption": "AppProcessName",
+      "Message": "Ask your question",
+      "Prompt": "Response",
+      "Type": "TEXT",
+      "Default": ""
+    },
+    "InstallTitle": {
+      "Caption": "InstallTitle",
+      "Message": "Ask your question",
+      "Prompt": "Response",
+      "Type": "TEXT",
+      "Default": ""
+    }
+  }
+}
